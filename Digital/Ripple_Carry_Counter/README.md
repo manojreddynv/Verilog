@@ -5,6 +5,6 @@ The first flip-flop is driven by the external clock, while each subsequent flip-
 producing a binary count from 0000 to 1111. 
 The design includes an active-high asynchronous reset to initialize the counter.
 
-## Waveforms 
+## Simulation Waveforms 
 ![Ripple_carry_counter Waveform](Ripple_carry_count.png)
 ![Ripple_carry_counter Waveform](Ripple_carry_count1.png)
